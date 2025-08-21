@@ -1,4 +1,4 @@
-26441719726097032
+26448740678577362
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1763,6 +1763,13 @@ Push Button
 0
 4
 4
+Button_Switch_THT
+SS-12D10G5_XKB
+
+SS-12D10G5 
+0
+3
+3
 Button_Switch_THT
 SW_CK_JS202011AQN_DPDT_Angled
 C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
@@ -62559,7 +62566,7 @@ heatsink
 0
 0
 Images
-Untitled
+hermes
 
 
 0
@@ -105643,6 +105650,27 @@ Varistor VF
 0
 2
 2
+footprints
+BGA30N50P5X6_274X292X69N
+
+
+0
+30
+30
+footprints
+SOIC127P1032X265-20N
+
+
+0
+20
+20
+footprints
+TO254P1524X483-4N
+
+
+0
+4
+4
 ssd1306-0_91
 SSD1306_OLED-0.91-128x32
 

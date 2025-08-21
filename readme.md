@@ -2,7 +2,11 @@
 amiHealthy is not a device to measure if you're healthy. I just thought it was a fun name
 
 What amiHealthy IS is a device that "measures" your heart rate and pulse oxygen levels (shoots light and reabsorbs it)
-It's based off of the MAX30102 sensor that uses the difference between red and IR light to determine how oxygenated the blood is. By reading this a LOT of times per second, it can determine what your heart rate is by sensing how that level changes. And it detects SpO2 by detecting the difference in how much IR vs red is absorbed vs reflected by the blood. Really cool concept. 
+It's based off of the MAX30102 sensor that uses the difference between red and IR light to determine how oxygenated the blood is. By reading this a LOT of times per second, it can determine what your heart rate is by sensing how that level changes. And it detects SpO2 by detecting the difference in how much IR vs red is absorbed vs reflected by the blood. Really cool concept.
+
+### Why does amiHealthy have a TOF sensor?
+
+It uses the TOF sensor to know when the user is close to the device, so whether to enable the MAX30102 sensor. 
 
 ### Images
 
